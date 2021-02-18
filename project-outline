@@ -1,4 +1,5 @@
-# Predicting Movie Genres Based on Plot Summaries
+Predicting Movie Genres Based on Plot Summaries
+
 
 Summary :  Movie plot summaries are expected to reflect the genre of movies since many spectators read the plot summaries before deciding to watch a movie. Movie plot summaries reflect the genre of the movies such as action, drama, horror, etc., such that people can easily capture the genre information of the movies from their plot summaries. Especially, several sentences in the plot summaries
 are high representatives of genre of the movie. People usually read the plot summaries of movies before watching them to get an idea about the movie. Therefore, plot summaries are written in such a way that they convey the genre information to the people. In this project, we will predict movie genres based on plot summaries and will compare different algorithms.   
@@ -15,3 +16,5 @@ Literature Survey:
 
 [1] Ertugrul, Ali Mert & KARAGOZ, Pinar. (2018). Movie Genre Classification from Plot Summaries Using Bidirectional LSTM. 10.1109/ICSC.2018.00043. 
 [2] Hoang, Quan. (2018). Predicting Movie Genres Based on Plot Summaries. 
+
+
