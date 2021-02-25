@@ -15,7 +15,7 @@ Data Description: There are 3 databases for now. MovieLens[1] database , MPST: M
 **Algorithm :** The first techniques that come to mind are NLP techniques and LSTM. But depending on the progress of the project, different algorithms can be used.
 
 **Future Work:** If we reached good accuracy on movie genres, we can predict movie ratings and movie actors/actress/director etc.
-* Inspiration:*
+* Inspiration:
    * Content-Based Movie Recommender:
 Recommend movies with plots similar to those that a user has rated highly.
    * Movie Plot Generator:
