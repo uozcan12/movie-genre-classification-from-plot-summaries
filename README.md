@@ -4,23 +4,23 @@
 
 **Goal :** This project explores NLP and LSTM methods and several Machine Learning methods to predict movie genres based on plot summaries.
 Data Description: There are 3 databases for now. MovieLens[1] database , MPST: Movie Plot Synopses and CMU Movie Summary Corpus dataset. In addition, we can work on IMDB dataset according to "Predicting Movie Genres Based on Plot Summaries" article[2]. 
-MPST: Movie Plot Synopses(https://www.kaggle.com/cryptexcode/mpst-movie-plot-synopses-with-tags?select=mpst_full_data.csv):
-    * imdb_id
-    * title
-    * plot_synopsis
-    * tags
-    * split
-    * synopsis_source
+*MPST: Movie Plot Synopses(https://www.kaggle.com/cryptexcode/mpst-movie-plot-synopses-with-tags?select=mpst_full_data.csv):
+   * imdb_id
+   * title
+   * plot_synopsis
+   * tags
+   * split
+   * synopsis_source
 
 **Algorithm :** The first techniques that come to mind are NLP techniques and LSTM. But depending on the progress of the project, different algorithms can be used.
 
 **Future Work:** If we reached good accuracy on movie genres, we can predict movie ratings and movie actors/actress/director etc.
-*Inspiration*
-    * Content-Based Movie Recommender:
+*Inspiration:*
+   * Content-Based Movie Recommender:
 Recommend movies with plots similar to those that a user has rated highly.
-    * Movie Plot Generator:
+   * Movie Plot Generator:
 Generate a movie plot description based on seed input, such as director and genre
-    * Information Retrieval: 
+   * Information Retrieval: 
 Return a movie title based on an input plot description
 
 **Literature Survey:**
